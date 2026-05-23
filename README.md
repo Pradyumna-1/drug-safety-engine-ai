@@ -322,6 +322,6 @@ recommendation enhancement
 
 This reduces hallucination risk and improves clinical safety.
 
-Author
+# Author
 
-Pradyumna Kumar Naik
+## Pradyumna Kumar Naik
